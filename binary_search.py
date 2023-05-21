@@ -1,3 +1,4 @@
+# python实现二分查找算法
 def binary_search(arr, target):
     low, high = 0, len(arr) - 1
 
